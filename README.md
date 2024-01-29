@@ -1,4 +1,5 @@
 # Building the Architecture of a General Pre-trained Transformer
+![custom-gptv1](https://github.com/tmobley96/custom-gptv1/assets/124856260/38245c1d-655f-45b0-be82-c109d6a4a81d)
 
 This personal project focuses on developing a general pre-trained transformer model, inspired by Elliot Arledge's FreeCodeCamp tutorial on YouTube. It involves rigorous data handling, where large datasets are meticulously processed and structured for training. The project delves deep into the mathematical foundations of transformers, exploring concepts like attention mechanisms and positional encoding. Building the model from scratch, it covers every step from initializing parameters to training and fine-tuning, offering a comprehensive understanding of transformer architecture and its applications in natural language processing.
 
